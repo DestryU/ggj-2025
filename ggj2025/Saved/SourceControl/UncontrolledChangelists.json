@@ -18,7 +18,13 @@
 				"G:/Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Input/Actions/IAct_BlowBubbles.uasset",
 				"G:/Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Input/Actions/IAct_Jump.uasset",
 				"G:/Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Input/Actions/IAct_Move.uasset",
-				"G:/Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Input/Actions/IAct_Look.uasset"
+				"G:/Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Input/Actions/IAct_Look.uasset",
+				"G:/Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/BluPs/Props/BluP_BubbleBasic.uasset",
+				"G:/Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Input/Actions/IAct_ShootBubble.uasset",
+				"G:/Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Input/Contexts/IMap_Bubbles.uasset",
+				"G:/Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/BluPs/Props/Bubble/BluP_BubbleBasic.uasset",
+				"G:/Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/BluPs/Props/Bubble/Mat_BubbleBasic.uasset",
+				"G:/Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/BluPs/Props/Soapy/BluP_SoapyObject.uasset"
 			]
 		}
 	]
