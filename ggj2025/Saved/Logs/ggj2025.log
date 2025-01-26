@@ -3898,3 +3898,127 @@ Scale3D: 1.000000 1.000000 1.000000
 [2025.01.26-19.10.46:033][ 29]LogEditorTransaction: Undo Move Elements
 [2025.01.26-19.11.00:728][489]Cmd: TRANSACTION UNDO
 [2025.01.26-19.11.00:728][489]LogEditorTransaction: Undo Clicking on Elements
+[2025.01.26-19.16.12:152][115]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-19.16.12:152][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-19.16.12:180][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.01.26-19.16.15:602][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.01.26-19.16.17:440][463]LogSlate: Window 'Save Content' being destroyed
+[2025.01.26-19.16.17:480][463]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.26-19.16.17:524][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Levl_TheKitchen" FILE="../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Levels/Levl_TheKitchen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.01.26-19.16.17:580][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.01.26-19.16.17:638][463]LogSavePackage: Moving output files for package: /Game/Levels/Levl_TheKitchen
+[2025.01.26-19.16.17:639][463]LogSavePackage: Moving '../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Saved/Levl_TheKitchen93E4D1F545DAEA7094AAB18B5892A73B.tmp' to '../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Levels/Levl_TheKitchen.umap'
+[2025.01.26-19.16.17:666][463]LogFileHelpers: Saving map 'Levl_TheKitchen' took 0.141
+[2025.01.26-19.16.17:667][463]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/CabinetTypeA] ([1] browsable assets)...
+[2025.01.26-19.16.17:667][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/CabinetTypeA]
+[2025.01.26-19.16.17:667][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/CabinetTypeA" FILE="../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Models/CabinetTypeA.uasset" SILENT=true
+[2025.01.26-19.16.17:675][463]LogSavePackage: Moving output files for package: /Game/Models/CabinetTypeA
+[2025.01.26-19.16.17:675][463]LogSavePackage: Moving '../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Saved/CabinetTypeA2E633F9A427BBFE78E285C850CA1414C.tmp' to '../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Models/CabinetTypeA.uasset'
+[2025.01.26-19.16.17:677][463]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/CabinetTypeB] ([1] browsable assets)...
+[2025.01.26-19.16.17:677][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/CabinetTypeB]
+[2025.01.26-19.16.17:677][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/CabinetTypeB" FILE="../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Models/CabinetTypeB.uasset" SILENT=true
+[2025.01.26-19.16.17:686][463]LogSavePackage: Moving output files for package: /Game/Models/CabinetTypeB
+[2025.01.26-19.16.17:686][463]LogSavePackage: Moving '../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Saved/CabinetTypeBC2F899BA44226B2CCEE9EF87E7993BF8.tmp' to '../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Models/CabinetTypeB.uasset'
+[2025.01.26-19.16.17:688][463]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Chair] ([1] browsable assets)...
+[2025.01.26-19.16.17:688][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Chair]
+[2025.01.26-19.16.17:688][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Chair" FILE="../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Models/Chair.uasset" SILENT=true
+[2025.01.26-19.16.17:697][463]LogSavePackage: Moving output files for package: /Game/Models/Chair
+[2025.01.26-19.16.17:697][463]LogSavePackage: Moving '../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Saved/ChairB81B8E6C4FA621F7FE98C4A862F07723.tmp' to '../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Models/Chair.uasset'
+[2025.01.26-19.16.17:698][463]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Corner] ([1] browsable assets)...
+[2025.01.26-19.16.17:699][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Corner]
+[2025.01.26-19.16.17:699][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Corner" FILE="../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Models/Corner.uasset" SILENT=true
+[2025.01.26-19.16.17:706][463]LogSavePackage: Moving output files for package: /Game/Models/Corner
+[2025.01.26-19.16.17:706][463]LogSavePackage: Moving '../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Saved/CornerBAEBFBAE474D111D6971D58139E42148.tmp' to '../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Models/Corner.uasset'
+[2025.01.26-19.16.17:708][463]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/CounterTop] ([1] browsable assets)...
+[2025.01.26-19.16.17:708][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/CounterTop]
+[2025.01.26-19.16.17:708][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/CounterTop" FILE="../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Models/CounterTop.uasset" SILENT=true
+[2025.01.26-19.16.17:716][463]LogSavePackage: Moving output files for package: /Game/Models/CounterTop
+[2025.01.26-19.16.17:717][463]LogSavePackage: Moving '../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Saved/CounterTop640CCB924FB719A3A3C629BD11BF1CA4.tmp' to '../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Models/CounterTop.uasset'
+[2025.01.26-19.16.17:719][463]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Dish_Washer] ([1] browsable assets)...
+[2025.01.26-19.16.17:719][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Dish_Washer]
+[2025.01.26-19.16.17:719][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Dish_Washer" FILE="../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Models/Dish_Washer.uasset" SILENT=true
+[2025.01.26-19.16.17:728][463]LogSavePackage: Moving output files for package: /Game/Models/Dish_Washer
+[2025.01.26-19.16.17:728][463]LogSavePackage: Moving '../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Saved/Dish_Washer78056A7B40BCBC9D40A78B97C4B13CBE.tmp' to '../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Models/Dish_Washer.uasset'
+[2025.01.26-19.16.17:730][463]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/DoubleDrawer] ([1] browsable assets)...
+[2025.01.26-19.16.17:730][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/DoubleDrawer]
+[2025.01.26-19.16.17:730][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/DoubleDrawer" FILE="../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Models/DoubleDrawer.uasset" SILENT=true
+[2025.01.26-19.16.17:739][463]LogSavePackage: Moving output files for package: /Game/Models/DoubleDrawer
+[2025.01.26-19.16.17:739][463]LogSavePackage: Moving '../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Saved/DoubleDrawer598EBA364D68C6017CBC70846BC017E6.tmp' to '../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Models/DoubleDrawer.uasset'
+[2025.01.26-19.16.17:741][463]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Island] ([1] browsable assets)...
+[2025.01.26-19.16.17:741][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Island]
+[2025.01.26-19.16.17:741][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Island" FILE="../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Models/Island.uasset" SILENT=true
+[2025.01.26-19.16.17:752][463]LogSavePackage: Moving output files for package: /Game/Models/Island
+[2025.01.26-19.16.17:752][463]LogSavePackage: Moving '../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Saved/IslandFD70C1E7410D6B1FB6C8D39212A8C742.tmp' to '../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Models/Island.uasset'
+[2025.01.26-19.16.17:754][463]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Kitchen_Shape] ([1] browsable assets)...
+[2025.01.26-19.16.17:754][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Kitchen_Shape]
+[2025.01.26-19.16.17:754][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Kitchen_Shape" FILE="../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Models/Kitchen_Shape.uasset" SILENT=true
+[2025.01.26-19.16.17:763][463]LogSavePackage: Moving output files for package: /Game/Models/Kitchen_Shape
+[2025.01.26-19.16.17:764][463]LogSavePackage: Moving '../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Saved/Kitchen_Shape93F28DE840201256E5E2FD9FEA97D58D.tmp' to '../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Models/Kitchen_Shape.uasset'
+[2025.01.26-19.16.17:766][463]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/LargeShelf] ([1] browsable assets)...
+[2025.01.26-19.16.17:766][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/LargeShelf]
+[2025.01.26-19.16.17:766][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/LargeShelf" FILE="../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Models/LargeShelf.uasset" SILENT=true
+[2025.01.26-19.16.17:773][463]LogSavePackage: Moving output files for package: /Game/Models/LargeShelf
+[2025.01.26-19.16.17:774][463]LogSavePackage: Moving '../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Saved/LargeShelfE5BA38A94B2790D0DE545F9819143F52.tmp' to '../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Models/LargeShelf.uasset'
+[2025.01.26-19.16.17:776][463]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Oven] ([1] browsable assets)...
+[2025.01.26-19.16.17:776][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Oven]
+[2025.01.26-19.16.17:776][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Oven" FILE="../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Models/Oven.uasset" SILENT=true
+[2025.01.26-19.16.17:789][463]LogSavePackage: Moving output files for package: /Game/Models/Oven
+[2025.01.26-19.16.17:789][463]LogSavePackage: Moving '../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Saved/Oven31DA622644243D285DAEDB9D1E181D74.tmp' to '../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Models/Oven.uasset'
+[2025.01.26-19.16.17:791][463]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Size_Reference] ([1] browsable assets)...
+[2025.01.26-19.16.17:791][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Size_Reference]
+[2025.01.26-19.16.17:791][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Size_Reference" FILE="../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Models/Size_Reference.uasset" SILENT=true
+[2025.01.26-19.16.17:799][463]LogSavePackage: Moving output files for package: /Game/Models/Size_Reference
+[2025.01.26-19.16.17:799][463]LogSavePackage: Moving '../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Saved/Size_Reference3C0EEFEF4CC4BBE947DF9C8E6E3D64B2.tmp' to '../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Models/Size_Reference.uasset'
+[2025.01.26-19.16.17:801][463]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Table] ([1] browsable assets)...
+[2025.01.26-19.16.17:801][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Table]
+[2025.01.26-19.16.17:801][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Table" FILE="../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Models/Table.uasset" SILENT=true
+[2025.01.26-19.16.17:809][463]LogSavePackage: Moving output files for package: /Game/Models/Table
+[2025.01.26-19.16.17:810][463]LogSavePackage: Moving '../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Saved/Table3F2788204FCA456E1D6783BE09EA4EA3.tmp' to '../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Models/Table.uasset'
+[2025.01.26-19.16.17:811][463]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/WallShelfCorner] ([1] browsable assets)...
+[2025.01.26-19.16.17:812][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/WallShelfCorner]
+[2025.01.26-19.16.17:812][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/WallShelfCorner" FILE="../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Models/WallShelfCorner.uasset" SILENT=true
+[2025.01.26-19.16.17:819][463]LogSavePackage: Moving output files for package: /Game/Models/WallShelfCorner
+[2025.01.26-19.16.17:819][463]LogSavePackage: Moving '../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Saved/WallShelfCorner53B5C455481A1C5C7E1E358A1A4861CC.tmp' to '../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Models/WallShelfCorner.uasset'
+[2025.01.26-19.16.17:821][463]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/WallShelfLarge] ([1] browsable assets)...
+[2025.01.26-19.16.17:821][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/WallShelfLarge]
+[2025.01.26-19.16.17:821][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/WallShelfLarge" FILE="../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Models/WallShelfLarge.uasset" SILENT=true
+[2025.01.26-19.16.17:829][463]LogSavePackage: Moving output files for package: /Game/Models/WallShelfLarge
+[2025.01.26-19.16.17:829][463]LogSavePackage: Moving '../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Saved/WallShelfLarge6DEF3B8A4942ECF0BFB35687AB9F1403.tmp' to '../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Models/WallShelfLarge.uasset'
+[2025.01.26-19.16.17:831][463]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/WallTypeA] ([1] browsable assets)...
+[2025.01.26-19.16.17:831][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/WallTypeA]
+[2025.01.26-19.16.17:831][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/WallTypeA" FILE="../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Models/WallTypeA.uasset" SILENT=true
+[2025.01.26-19.16.17:839][463]LogSavePackage: Moving output files for package: /Game/Models/WallTypeA
+[2025.01.26-19.16.17:839][463]LogSavePackage: Moving '../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Saved/WallTypeA6AC1B8444F9B6BDDC5D385BCE88D6A9F.tmp' to '../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Models/WallTypeA.uasset'
+[2025.01.26-19.16.17:841][463]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/WallTypeB] ([1] browsable assets)...
+[2025.01.26-19.16.17:841][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/WallTypeB]
+[2025.01.26-19.16.17:841][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/WallTypeB" FILE="../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Models/WallTypeB.uasset" SILENT=true
+[2025.01.26-19.16.17:849][463]LogSavePackage: Moving output files for package: /Game/Models/WallTypeB
+[2025.01.26-19.16.17:849][463]LogSavePackage: Moving '../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Saved/WallTypeB41E359B14402DF47072ED7B81786AC50.tmp' to '../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Models/WallTypeB.uasset'
+[2025.01.26-19.16.17:856][463]LogFileHelpers: InternalPromptForCheckoutAndSave took 376.199 ms (total: 646.701 ms)
+[2025.01.26-19.16.17:907][463]LogContentValidation: Display: Starting to validate 18 assets
+[2025.01.26-19.16.17:907][463]LogContentValidation: Enabled validators:
+[2025.01.26-19.16.17:907][463]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.26-19.16.17:907][463]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.26-19.16.17:907][463]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.26-19.16.17:907][463]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.26-19.16.17:907][463]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.26-19.16.17:907][463]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.26-19.16.17:908][463]AssetCheck: /Game/Levels/Levl_TheKitchen Validating asset
+[2025.01.26-19.16.17:908][463]AssetCheck: /Game/Models/CabinetTypeA Validating asset
+[2025.01.26-19.16.17:908][463]AssetCheck: /Game/Models/CabinetTypeB Validating asset
+[2025.01.26-19.16.17:908][463]AssetCheck: /Game/Models/Chair Validating asset
+[2025.01.26-19.16.17:908][463]AssetCheck: /Game/Models/Corner Validating asset
+[2025.01.26-19.16.17:908][463]AssetCheck: /Game/Models/CounterTop Validating asset
+[2025.01.26-19.16.17:908][463]AssetCheck: /Game/Models/Dish_Washer Validating asset
+[2025.01.26-19.16.17:908][463]AssetCheck: /Game/Models/DoubleDrawer Validating asset
+[2025.01.26-19.16.17:908][463]AssetCheck: /Game/Models/Island Validating asset
+[2025.01.26-19.16.17:908][463]AssetCheck: /Game/Models/Kitchen_Shape Validating asset
+[2025.01.26-19.16.17:908][463]AssetCheck: /Game/Models/LargeShelf Validating asset
+[2025.01.26-19.16.17:908][463]AssetCheck: /Game/Models/Oven Validating asset
+[2025.01.26-19.16.17:908][463]AssetCheck: /Game/Models/Size_Reference Validating asset
+[2025.01.26-19.16.17:908][463]AssetCheck: /Game/Models/Table Validating asset
+[2025.01.26-19.16.17:908][463]AssetCheck: /Game/Models/WallShelfCorner Validating asset
+[2025.01.26-19.16.17:908][463]AssetCheck: /Game/Models/WallShelfLarge Validating asset
+[2025.01.26-19.16.17:908][463]AssetCheck: /Game/Models/WallTypeA Validating asset
+[2025.01.26-19.16.17:909][463]AssetCheck: /Game/Models/WallTypeB Validating asset
+[2025.01.26-19.16.17:924][463]LogAutomationController: Ignoring very large delta of 2.33 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
