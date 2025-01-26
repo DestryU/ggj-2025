@@ -36941,3 +36941,93 @@ Sampler Limit: 32
 [2025.01.26-03.22.38:217][532]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.047ms to complete.
 [2025.01.26-03.28.05:736][849]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluPs/Characters/Char_DefaultCharacter.Char_DefaultCharacter
 [2025.01.26-03.28.05:737][849]LogChaosDD: Creating Chaos Debug Draw Scene for world World_20
+[2025.01.26-03.43.18:379][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.01.26-03.43.18:438][573]LogStreaming: Display: FlushAsyncLoading(710): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-03.43.18:458][573]LogChaosDD: Creating Chaos Debug Draw Scene for world Levl_CharacterTesting
+[2025.01.26-03.43.18:462][573]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Levl_CharacterTesting.Levl_CharacterTesting
+[2025.01.26-03.43.18:462][573]Cmd: MAP LOAD FILE="../../../../../Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Levels/Levl_CharacterTesting.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.01.26-03.43.18:532][573]LogWorld: UWorld::CleanupWorld for Levl_TheKitchen, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-03.43.18:532][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-03.43.18:551][573]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.26-03.43.18:554][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.01.26-03.43.18:558][573]LogWorld: UWorld::CleanupWorld for Levl_CharacterTesting, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-03.43.18:558][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-03.43.18:585][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.01.26-03.43.18:605][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.01.26-03.43.18:659][573]LogAudio: Display: Audio Device (ID: 1) registered with world 'Levl_CharacterTesting'.
+[2025.01.26-03.43.18:659][573]LogChaosDD: Creating Chaos Debug Draw Scene for world Levl_CharacterTesting
+[2025.01.26-03.43.18:729][573]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.01.26-03.43.18:751][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.01.26-03.43.18:771][573]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.01.26-03.43.18:771][573]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.049ms to complete.
+[2025.01.26-03.43.39:095][642]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2025.01.26-03.43.39:095][642]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2025.01.26-03.43.39:095][642]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2025.01.26-03.43.39:096][642]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2025.01.26-03.43.39:096][642]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2025.01.26-03.43.39:096][642]LogWindows: Warning: URL: C:\Users\DestryU\AppData\Local/Programs/Git/cmd/git.exe version
+[2025.01.26-03.43.39:096][642]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2025.01.26-03.43.39:096][642]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2025.01.26-03.43.39:096][642]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2025.01.26-03.43.39:096][642]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2025.01.26-03.43.39:096][642]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2025.01.26-03.43.39:096][642]LogWindows: Warning: URL: C:\Users\DestryU\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2025.01.26-03.43.39:096][642]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2025.01.26-03.43.39:096][642]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2025.01.26-03.43.59:291][557]SourceControl: Revision control is disabled
+[2025.01.26-03.44.02:195][894]LogSlate: Window 'Revision Control Login' being destroyed
+[2025.01.26-03.44.21:194][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.01.26-03.44.22:626][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.01.26-03.44.23:827][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.01.26-03.47.54:563][629]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.01.26-03.47.54:574][629]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.26-03.47.54:574][629]LogPlayLevel: Display: Creating online subsystem for client :Context_144
+[2025.01.26-03.47.54:577][629]LogOnline: OSS: Created online subsystem instance for: :Context_144
+[2025.01.26-03.47.54:595][630]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Levl_CharacterTesting
+[2025.01.26-03.47.54:604][630]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009051s)
+[2025.01.26-03.47.54:604][630]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Levl_CharacterTesting.Levl_CharacterTesting to /Game/Levels/UEDPIE_0_Levl_CharacterTesting.Levl_CharacterTesting (0.009097s)
+[2025.01.26-03.47.54:625][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.01.26-03.47.54:628][630]LogChaosDD: Creating Chaos Debug Draw Scene for world Levl_CharacterTesting
+[2025.01.26-03.47.54:629][630]LogPlayLevel: PIE: World Init took: (0.001493s)
+[2025.01.26-03.47.54:630][630]LogAudio: Display: Creating Audio Device:                 Id: 124, Scope: Unique, Realtime: True
+[2025.01.26-03.47.54:630][630]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.26-03.47.54:630][630]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.26-03.47.54:630][630]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.26-03.47.54:630][630]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.26-03.47.54:630][630]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.26-03.47.54:630][630]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.26-03.47.54:630][630]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.26-03.47.54:630][630]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.26-03.47.54:630][630]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.26-03.47.54:630][630]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.26-03.47.54:630][630]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.26-03.47.54:632][630]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.26-03.47.54:655][630]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2025.01.26-03.47.54:656][630]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.26-03.47.54:656][630]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.26-03.47.54:656][630]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.26-03.47.54:656][630]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=124
+[2025.01.26-03.47.54:656][630]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=124
+[2025.01.26-03.47.54:658][630]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=124
+[2025.01.26-03.47.54:658][630]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=124
+[2025.01.26-03.47.54:658][630]LogInit: FAudioDevice initialized with ID 124.
+[2025.01.26-03.47.54:658][630]LogAudio: Display: Audio Device (ID: 124) registered with world 'Levl_CharacterTesting'.
+[2025.01.26-03.47.54:658][630]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 124
+[2025.01.26-03.47.54:686][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.26-03.47.54:686][630]LogLoad: Game class is 'Mode_DefaultMode_C'
+[2025.01.26-03.47.54:689][630]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Levl_CharacterTesting.Levl_CharacterTesting up for play (max tick rate 0) at 2025.01.25-20.47.54
+[2025.01.26-03.47.54:690][630]LogWorld: Bringing up level for play took: 0.003270
+[2025.01.26-03.47.54:695][630]PIE: Server logged in
+[2025.01.26-03.47.54:697][630]PIE: Play in editor total start time 0.123 seconds.
+[2025.01.26-03.48.48:292][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.26-03.48.48:292][212]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Levl_CharacterTesting
+[2025.01.26-03.48.48:293][212]LogSlate: Window 'ggj2025 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.01.26-03.48.48:297][212]LogWorld: UWorld::CleanupWorld for Levl_CharacterTesting, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-03.48.48:299][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-03.48.48:303][212]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.26-03.48.48:309][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-03.48.48:329][212]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 124
+[2025.01.26-03.48.48:329][212]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=124
+[2025.01.26-03.48.48:331][212]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=124
+[2025.01.26-03.48.48:340][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.01.26-03.48.48:379][213]LogPlayLevel: Display: Destroying online subsystem :Context_144
