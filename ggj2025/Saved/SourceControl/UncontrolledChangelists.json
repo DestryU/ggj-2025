@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/BubbleGun/GameFile/ggj-2025/ggj2025/Content/BluPs/Props/Bubble/Mat_BubbleBasic.uasset",
 				"G:/Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Levels/Levl_TheKitchen.umap",
 				"G:/Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/Levels/Levl_CharacterTesting.umap",
 				"G:/Git Repos/GGJ-2025/ggj-2025/ggj2025/Content/BluPs/Characters/Char_DefaultCharacter.uasset",
